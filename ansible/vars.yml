@@ -10,7 +10,7 @@ postgres_major:
 # Full version strings for each major version
 postgres_release:
   postgresorioledb-17: "17.0.1.012-orioledb"
-  postgres15: "15.8.1.022"
+  postgres15: "15.10.1.001"
   postgres16: "16.3.1.028"
 
 # Non Postgres Extensions
